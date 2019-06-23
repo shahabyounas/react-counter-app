@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first project in React JS. I developed it with the help of tutorials. 
 
 ## Available Scripts
 
