@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/counter-app/static/css/main.866b4e6a.chunk.css",
-    "main.js": "/counter-app/static/js/main.c6b9d9b2.chunk.js",
-    "main.js.map": "/counter-app/static/js/main.c6b9d9b2.chunk.js.map",
-    "runtime~main.js": "/counter-app/static/js/runtime~main.c63f0888.js",
-    "runtime~main.js.map": "/counter-app/static/js/runtime~main.c63f0888.js.map",
-    "static/css/2.98876c08.chunk.css": "/counter-app/static/css/2.98876c08.chunk.css",
-    "static/js/2.eb088328.chunk.js": "/counter-app/static/js/2.eb088328.chunk.js",
-    "static/js/2.eb088328.chunk.js.map": "/counter-app/static/js/2.eb088328.chunk.js.map",
-    "index.html": "/counter-app/index.html",
-    "precache-manifest.f08e0af0270ebcd520ad1f928d4eae67.js": "/counter-app/precache-manifest.f08e0af0270ebcd520ad1f928d4eae67.js",
-    "service-worker.js": "/counter-app/service-worker.js",
-    "static/css/2.98876c08.chunk.css.map": "/counter-app/static/css/2.98876c08.chunk.css.map",
-    "static/css/main.866b4e6a.chunk.css.map": "/counter-app/static/css/main.866b4e6a.chunk.css.map"
+    "main.css": "/react-counter-app/static/css/main.866b4e6a.chunk.css",
+    "main.js": "/react-counter-app/static/js/main.83b21526.chunk.js",
+    "main.js.map": "/react-counter-app/static/js/main.83b21526.chunk.js.map",
+    "runtime~main.js": "/react-counter-app/static/js/runtime~main.6eff6206.js",
+    "runtime~main.js.map": "/react-counter-app/static/js/runtime~main.6eff6206.js.map",
+    "static/css/2.98876c08.chunk.css": "/react-counter-app/static/css/2.98876c08.chunk.css",
+    "static/js/2.eb088328.chunk.js": "/react-counter-app/static/js/2.eb088328.chunk.js",
+    "static/js/2.eb088328.chunk.js.map": "/react-counter-app/static/js/2.eb088328.chunk.js.map",
+    "index.html": "/react-counter-app/index.html",
+    "precache-manifest.8934c979d47c93b1903953480ecd361c.js": "/react-counter-app/precache-manifest.8934c979d47c93b1903953480ecd361c.js",
+    "service-worker.js": "/react-counter-app/service-worker.js",
+    "static/css/2.98876c08.chunk.css.map": "/react-counter-app/static/css/2.98876c08.chunk.css.map",
+    "static/css/main.866b4e6a.chunk.css.map": "/react-counter-app/static/css/main.866b4e6a.chunk.css.map"
   }
 }
